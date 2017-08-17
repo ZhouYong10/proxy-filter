@@ -1,0 +1,11 @@
+# ignore node_moduels
+node_modules
+
+# ignore IDE dir
+.idea
+
+# ignore debug log file
+npm-debug.log
+
+#  --no-cache --update $FileName$:$FileNameWithoutExtension$.css
+#  --source-maps --out-file $FileNameWithoutExtension$-compiled.js $FilePath$
